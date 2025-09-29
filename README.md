@@ -10,12 +10,12 @@ Ushbu repozitoriyada kompaniyamiz faoliyatida qo‘llaniladigan barcha reglament
 - Nazorat va javobgarlik tartiblari
 
 ## Reglamentlar ro‘yxati
-- [Umumiy ichki tartib qoidalari](docs/umumiy_tartib.md)
-- [Operatorlar reglamenti](docs/operators.md)
-- [HR va xodimlar bilan ishlash reglamenti](docs/hr_reglament.md)
-- [Savdo va mijozlar bilan ishlash reglamenti](docs/savdo_reglament.md)
-- [IT va texnik qo‘llab-quvvatlash reglamenti](docs/it_reglament.md)
-- [Moliyaviy operatsiyalar reglamenti](docs/moliya_reglament.md)
+- [Umumiy ichki tartib qoidalari](reglaments/umumiy_tartib.md)
+- [Operatorlar reglamenti](reglaments/operators.md)
+- [HR va xodimlar bilan ishlash reglamenti](reglaments/hr_reglament.md)
+- [Savdo va mijozlar bilan ishlash reglamenti](reglaments/savdo_reglament.md)
+- [IT va texnik qo‘llab-quvvatlash reglamenti](reglaments/it_reglament.md)
+- [Moliyaviy operatsiyalar reglamenti](reglaments/moliya_reglament.md)
 
 ## Umumiy qoidalar
 1. Har bir reglament barcha xodimlar uchun majburiy hisoblanadi.  
