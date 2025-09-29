@@ -2,14 +2,12 @@
 
 Ushbu repozitoriyada kompaniyamiz faoliyatida qo‘llaniladigan barcha reglamentlar jamlangan. Maqsad — ish jarayonlarini bir xil, tushunarli va qulay shaklda yuritish.
 
-## Nimalar bo‘ladi?
+### Nimalar bo‘ladi?
 - Asosiy reglamentlar
 - Har bir bo‘lim va jarayon bo‘yicha yo‘riqnomalar
 - Ichki qoidalar va standartlar
 - Xodimlar uchun yo‘l-yo‘riqlar
 - Nazorat va javobgarlik tartiblari
-
-## Tavsiya etiladigan reglamentlar ro‘yxati
 
 ### 📌 Asosiy boshqaruv va umumiy qoidalar
 - [Umumiy ichki tartib qoidalari](reglaments/umumiy_tartib.md)
