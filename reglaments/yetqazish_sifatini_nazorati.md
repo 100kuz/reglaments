@@ -48,11 +48,13 @@ Reglament yetkazib berish sifati va muammolarni hal qilish bo‘limi xodimlariga
 - Qasddan yoki beparvolik oqibatida yetkazilgan zarar moddiy javobgarlikka sabab bo‘ladi.  
 - Reglamentni takror-takror buzish mehnat shartnomasini bekor qilishga olib kelishi mumkin.  
 
----
-
 ## 9. Maxsus vaziyatlarda harakat tartibi
 
 Quyidagi vaziyatlarda xodim quyidagi tartibda harakat qilishi shart:
+
+- **Agar mahsulot brak chiqsa va kuryer mijozdan pul talab qilsa**  
+  - Kuryer bilan bog‘lanadi va vaziyatni tushuntiradi. 
+  - Agar kuryer baribir talab qilsa, hudud bo‘yicha katta kuryerga murojaat qiladi.
 
 - **Kuryer topshiriqni bajarmasa**  
   - Kuryer bilan yana bir bor bog‘lanadi va vaziyatni tushuntiradi.  
