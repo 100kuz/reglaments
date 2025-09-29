@@ -20,7 +20,10 @@ Ushbu repozitoriyada kompaniyamiz faoliyatida qo‘llaniladigan barcha reglament
 - ❌ [Buyurtmalarni qayta ishlash reglamenti](reglaments/buyurtmalar_qayta_ishlash.md)
 - ❌ [Mahsulotlarni qaytarish reglamenti](reglaments/qaytarish_reglamenti.md)
 
-### 📌 Ombor va logistika
+### 📌 Yetqazish va transport
+- ❌ [Yetqazish sifatini nazoratchilariga](reglaments/yetqazish_sifatini_nazorati.md)
+
+### 📌 Ombor
 - ❌ [Ombor hisobini yuritish reglamenti](reglaments/ombor_hisobi.md)
 - ❌ [Mahsulotlarni qadoqlash va yetkazib berish reglamenti](reglaments/qadoqlash_va_yetkazib_berish.md)
 - ❌ [Qabul qilish va saqlash tartibi](reglaments/qabul_qilish_va_saqlash.md)
