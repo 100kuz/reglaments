@@ -21,7 +21,7 @@ Ushbu repozitoriyada kompaniyamiz faoliyatida qo‘llaniladigan barcha reglament
 - ❌ [Mahsulotlarni qaytarish reglamenti](reglaments/qaytarish_reglamenti.md)
 
 ### 📌 Yetqazish va transport
-- ❌ [Yetqazish sifatini nazoratchilariga](reglaments/yetqazish_sifatini_nazorati.md)
+- ✅ [Yetqazish sifatini nazoratchilariga](reglaments/yetqazish_sifatini_nazorati.md)
 
 ### 📌 Ombor
 - ❌ [Ombor hisobini yuritish reglamenti](reglaments/ombor_hisobi.md)
