@@ -1,32 +1,67 @@
 # Umumiy ichki tartib qoidalari
 
-Ushbu reglament kompaniyaning barcha xodimlari uchun majburiy hisoblanadi. Maqsad — intizomni ta’minlash, ish samaradorligini oshirish va umumiy tartibni saqlash.
+Ushbu reglament kompaniya ichida yagona tartib va intizomni ta’minlash, xodimlar o‘rtasida hurmatli muhit yaratish hamda ish samaradorligini oshirish uchun ishlab chiqilgan. Qoidalar barcha xodimlar uchun majburiydir.
 
-## Ish vaqti
-- Ish kuni: soat **09:00 dan 18:00 gacha** (tushlik tanaffusi: 13:00 – 14:00).  
-- Ish vaqtida o‘z vaqtida kelish va kechikmaslik majburiy.  
-- Kechikish yoki kelmaslik haqida oldindan rahbarni xabardor qilish shart.  
+---
 
-## Intizom va xulq-atvor
-- Xodim o‘z vazifalarini vijdonan bajarishi kerak.  
-- Bir-biriga, mijozlarga va rahbariyatga nisbatan **hurmatli va odobli** bo‘lish majburiy.  
-- Ish vaqtida **odobsiz so‘zlashish, janjal chiqarish, haqorat qilish qat’iyan man etiladi**.  
-- Ish joyida shaxsiy ishlarga (ijtimoiy tarmoqlar, o‘yinlar va hokazo) ortiqcha vaqt sarflash mumkin emas.  
+## 1. Maqsad va vazifalar
+- Ish jarayonini tartibga solish.  
+- Xodimlar va rahbariyat o‘rtasida aniq mas’uliyatni belgilash.  
+- Ish intizomi va xizmat madaniyatini shakllantirish.  
 
-## Jihozlar va mulkka munosabat
-- Kompaniyaga tegishli kompyuter, telefon, dasturiy ta’minot va boshqa jihozlardan faqat ish maqsadida foydalanish lozim.  
-- Jihozlarga beparvo munosabat yoki qasddan zarar yetkazish moddiy javobgarlikka olib keladi.  
-- Ish joyi toza va tartibli saqlanishi shart.  
+---
 
-## Ma’lumotlar xavfsizligi
-- Kompaniya sirlarini, mijozlar ma’lumotlarini va ichki hujjatlarni uchinchi shaxslarga oshkor qilish **qat’iyan taqiqlanadi**.  
-- Parollarni boshqa shaxslarga berish mumkin emas.  
-- Har bir xodim o‘z login va paroliga shaxsan javobgardir.  
+## 2. Ish vaqti
+- Ish kuni: **09:00 – 18:00**.  
+- Tushlik tanaffusi: **13:00 – 14:00**.  
+- Kechikish yoki ishga kelmaslik haqida rahbarni oldindan xabardor qilish shart.  
 
-## Tanaffuslar
-- Tushlik tanaffusi — **13:00 dan 14:00 gacha**.  
-- Kofe-break yoki qisqa dam olish tanaffuslari rahbar ruxsati bilan amalga oshiriladi.  
+---
 
-## Javobgarlik
-- Ushbu qoidalarga rioya qilmaslik intizomiy chora ko‘rilishiga sabab bo‘ladi.  
-- Qoidalarni muntazam ravishda buzgan xodim bilan mehnat shartnomasi bekor qilinishi mumkin.  
+## 3. Xodimlarning majburiyatlari
+- Vazifalarni vijdonan va o‘z vaqtida bajarish.  
+- Mijozlar, rahbarlar va hamkasblar bilan **hurmatli va odobli muomala** qilish.  
+- Kompaniya qoidalariga, reglamentlariga va topshiriqlariga rioya qilish.  
+- Sirli ma’lumotlarni uchinchi shaxslarga bermaslik.  
+
+---
+
+## 4. Xodimlarning huquqlari
+- O‘z mehnati uchun belgilangan tartibda haq olish.  
+- Tanaffus va dam olish vaqtlaridan foydalanish.  
+- Rahbariyatga ish jarayoni va sharoitlarini yaxshilash bo‘yicha takliflar berish.  
+
+---
+
+## 5. Rahbariyatning huquqlari
+- Xodimlardan reglamentlarga rioya qilishni talab qilish.  
+- Intizom buzilishi holatida tegishli choralar ko‘rish.  
+- Ish jarayonini samarali tashkil etish uchun qo‘shimcha tartib va qoidalar belgilash.  
+
+---
+
+## 6. Jihozlar va mulkka munosabat
+- Kompaniya mulkidan faqat ish maqsadida foydalanish.  
+- Jihozlarga zarar yetkazmaslik va ulardan ehtiyotkorlik bilan foydalanish.  
+- Ish joyini toza va tartibli saqlash.  
+
+---
+
+## 7. Ma’lumotlar xavfsizligi
+- Mijozlar va kompaniya ma’lumotlari maxfiy hisoblanadi.  
+- Login, parol va boshqa xizmat ma’lumotlarini uchinchi shaxslarga berish mumkin emas.  
+- Har bir xodim o‘z hisob ma’lumotlariga shaxsan javobgar.  
+
+---
+
+## 8. Intizom va xulq-atvor
+- Ish vaqtida o‘z vazifasidan chet ishlarga (o‘yinlar, ijtimoiy tarmoqlar va h.k.) berilmaslik.  
+- Ish joyida janjal, qo‘pol so‘zlar va odobsiz xatti-harakatlarga yo‘l qo‘yilmaydi.  
+- Ichki madaniyat va hamjihatlikka rioya qilish majburiy.  
+
+---
+
+## 9. Javobgarlik
+- Ushbu reglament qoidalarini buzgan xodim intizomiy javobgarlikka tortiladi.  
+- Qasddan zarar yetkazish moddiy javobgarlikka olib kelishi mumkin.  
+- Qoidalarni muntazam buzish mehnat shartnomasini bekor qilishga sabab bo‘ladi.  
