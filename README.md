@@ -16,6 +16,7 @@ Ushbu repozitoriyada kompaniyamiz faoliyatida qo‘llaniladigan barcha reglament
 - [Savdo va mijozlar bilan ishlash reglamenti](reglaments/savdo_reglament.md)
 - [IT va texnik qo‘llab-quvvatlash reglamenti](reglaments/it_reglament.md)
 - [Moliyaviy operatsiyalar reglamenti](reglaments/moliya_reglament.md)
+- [Mahsulotlarni qaytarish reglamenti](reglaments/qaytarish_reglamenti.md)
 
 ## Umumiy qoidalar
 1. Har bir reglament barcha xodimlar uchun majburiy hisoblanadi.  
