@@ -1,5 +1,11 @@
 # Mahsulotlarni Qaytarish Reglamenti
 
+## Mundarija
+- [1. Asosiy vazifalar](#1-asosiy-vazifalar)
+- [2. Qaytarish jarayoni](#2-qaytarish-jarayoni)
+- [3. Mas’uliyat](#3-masuliyat)
+- [4. Hisobot](#4-hisobot)
+
 ## 1. Asosiy vazifalar
 - Xaridor tomonidan qaytarilgan mahsulotlarni qabul qilish.  
 - Mahsulot holatini tekshirish.  

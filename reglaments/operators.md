@@ -1,5 +1,15 @@
 # Operatorlar uchun reglament
 
+## Mundarija
+- [1. Maqsad](#1-maqsad)
+- [2. Qo‘llanish sohasi](#2-qo‘llanish-sohasi)
+- [3. Asosiy vazifalar](#3-asosiy-vazifalar)
+- [4. Qoidalar](#4-qoidalar)
+- [5. Xodimlarning majburiyatlari](#5-xodimlarning-majburiyatlari)
+- [6. Rahbariyatning majburiyatlari va huquqlari](#6-rahbariyatning-majburiyatlari-va-huquqlari)
+- [7. Ma’lumotlar xavfsizligi](#7-malomotlar-xavfsizligi)
+- [8. Javobgarlik](#8-javobgarlik)
+
 ## 1. Maqsad
 Ushbu reglamentning maqsadi — operatorlarning buyurtmalarni tasdiqlash jarayonini tartibga solish, mijozlarga sifatli xizmat ko‘rsatishni ta’minlash hamda operatorlar faoliyatida yuzaga keladigan bir xil savollarni minimallashtirishdir.  
 Reglamentning vazifasi — barcha jarayonlarni aniq belgilab berish va shu orqali operatorlarning rahbar yoki boshqa operatorlarga ortiqcha murojaatlarini kamaytirish.  

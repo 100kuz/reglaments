@@ -2,6 +2,17 @@
 
 Ushbu reglament kompaniya ichida yagona tartib va intizomni ta’minlash, xodimlar o‘rtasida hurmatli muhit yaratish hamda ish samaradorligini oshirish uchun ishlab chiqilgan. Qoidalar barcha xodimlar uchun majburiydir.
 
+## Mundarija
+- [1. Maqsad va vazifalar](#1-maqsad-va-vazifalar)
+- [2. Ish vaqti](#2-ish-vaqti)
+- [3. Xodimlarning majburiyatlari](#3-xodimlarning-majburiyatlari)
+- [4. Xodimlarning huquqlari](#4-xodimlarning-huquqlari)
+- [5. Rahbariyatning huquqlari](#5-rahbariyatning-huquqlari)
+- [6. Jihozlar va mulkka munosabat](#6-jihozlar-va-mulkka-munosabat)
+- [7. Ma’lumotlar xavfsizligi](#7-malumotlar-xavfsizligi)
+- [8. Intizom va xulq-atvor](#8-intizom-va-xulq-atvor)
+- [9. Javobgarlik](#9-javobgarlik)
+
 ---
 
 ## 1. Maqsad va vazifalar
