@@ -47,3 +47,48 @@ Reglament yetkazib berish sifati va muammolarni hal qilish bo‘limi xodimlariga
 - Ushbu reglament talablarini buzgan xodim intizomiy javobgarlikka tortiladi.  
 - Qasddan yoki beparvolik oqibatida yetkazilgan zarar moddiy javobgarlikka sabab bo‘ladi.  
 - Reglamentni takror-takror buzish mehnat shartnomasini bekor qilishga olib kelishi mumkin.  
+
+---
+
+## 9. Maxsus vaziyatlarda harakat tartibi
+
+Quyidagi vaziyatlarda xodim quyidagi tartibda harakat qilishi shart:
+
+- **Kuryer topshiriqni bajarmasa**  
+  - Kuryer bilan yana bir bor bog‘lanadi va vaziyatni tushuntiradi.  
+  - Agar kuryer baribir topshiriqni bajarmasa, hudud bo‘yicha katta kuryerga murojaat qiladi.  
+  - Vaziyatni hujjatlashtirib, rahbariyatga xabar beradi.  
+
+- **Mijoz mahsulotni olishdan bosh tortsa**  
+  - Sababini aniqlaydi va qayd qiladi (masalan: sifat yoqmadi, kerak emas bo‘lib qoldi).  
+  - CRM yoki admin panelda zakazni “bekor qilingan”ga o‘tkazadi.  
+  - Rahbariyatga qisqa yozma hisobot beradi.  
+
+- **Buyurtma yo‘lda uzoq vaqt tursa**  
+  - Mijoz bilan bog‘lanib, zakaz holatini aniqlaydi.  
+  - Agar mijoz mahsulotni olgan bo‘lsa → zakazni “sotildi”ga o‘tkazadi.  
+  - Agar mijoz mahsulotni rad qilgan bo‘lsa → zakazni “bekor qilingan”ga o‘tkazadi.  
+
+- **Mijoz qo‘pol muomala qilsa**  
+  - Xotirjam va xolis ohangda gapiradi.  
+  - Mojaroga kirishmaydi.  
+  - Vaziyatni yozma tarzda rahbariyatga ma’lum qiladi.  
+
+- **Yetkazuvchi tomonidan muntazam xatoliklar kuzatilsa**  
+  - Har bir xatoni yozib boradi (kechikish, noto‘g‘ri manzil, qo‘ng‘iroq qilmaslik va h.k.).  
+  - Haftalik yoki oylik hisobotda rahbariyatga taqdim etadi.  
+  - Takrorlanayotgan xatolarni bartaraf etish bo‘yicha taklif beradi.  
+
+- **Mijoz buyurtmani qayta so‘rasa**  
+  - Buyurtmani qayta faollashtiradi.  
+  - Kuryerni takroriy yuborish uchun topshiriq beradi.  
+  - Qayta yetkazilgan zakazni nazorat qiladi.  
+
+- **Telefon orqali murojaatlarga javob bermasa (mijoz yoki kuryer)**  
+  - 3 marta qo‘ng‘iroq qiladi.  
+  - Javob bo‘lmasa, SMS yoki Telegram/WhatsApp orqali yozib yuboradi.  
+  - Hali ham javob bo‘lmasa, rahbariyatga vaziyat haqida xabar qiladi.  
+
+- **Mijoz noto‘g‘ri manzil bergan bo‘lsa**  
+  - Mijoz bilan bog‘lanib, to‘g‘ri manzilni aniqlaydi.  
+  - Kuryerga yangilangan manzilni yetka
