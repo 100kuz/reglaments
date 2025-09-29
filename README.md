@@ -11,7 +11,7 @@ Ushbu repozitoriyada kompaniyamiz faoliyatida qo‘llaniladigan barcha reglament
 
 ## Reglamentlar ro‘yxati
 - [Umumiy ichki tartib qoidalari](docs/umumiy_tartib.md)
-- [Operatorlar qoidalari](docs/operators.md)
+- [Operatorlar reglamenti](docs/operators.md)
 - [HR va xodimlar bilan ishlash reglamenti](docs/hr_reglament.md)
 - [Savdo va mijozlar bilan ishlash reglamenti](docs/savdo_reglament.md)
 - [IT va texnik qo‘llab-quvvatlash reglamenti](docs/it_reglament.md)
