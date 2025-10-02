@@ -22,6 +22,7 @@ Ushbu repozitoriyada kompaniyamiz faoliyatida qo‘llaniladigan barcha reglament
 
 ### 📌 Yetqazish va transport
 - ✅ [Yetqazish sifatini nazoratchilariga](reglaments/yetqazish_sifatini_nazorati.md)
+- ✅ [Region fillial rahbariga](reglaments/logistic_storage_head.md)
 
 ### 📌 Ombor
 - ❌ [Ombor hisobini yuritish reglamenti](reglaments/ombor_hisobi.md)
