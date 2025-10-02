@@ -29,6 +29,8 @@ Operator atamasi - faqat buyurtmalarni telefon orqali tasdiqlash bilan shug'ulla
 - Operatorlar o'z profilini faqatgina tog'ri ma'lumotlar bilan to'ldirishi shart.
 - Tizim orqali jarima urganda ahloq qoidalariga rioya qilgan holda jarima sababi tushuntirilishi shart. (sokinishlar, haqoratlar va h.k)
 - Operator boshqa operatorni nojuya xarakatlari, kompaniyaga moddiy va manaviy zarar yetkazish holatlari haqida bilgan taqdirda darhol rahbariyatga xabar berishi shart. Aks holda bunday holatlar yuzaga kelganda operator ham javobgar bo'ladi.
+- Operatorlar pulni faqatgina profilidan karta raqamiga yechib olishlari mumkin.
+- Yechishga qoyilgan pul 3 kun ichida karta raqamiga o'tkazilmasa keyingina rahbariyatga shikoyat qoldirishi mumkin.
 
 ## 5. Tez-tez beriladigan savollar (FAQ)
 1. Mijoz buyurtmasidagi mahsulotlarni dokon yoki ofisdan olamoqchi?
